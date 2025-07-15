@@ -49,3 +49,16 @@ Some of the major analyses performed:
    ```bash
    git clone https://github.com/mangal-singh001/Movies_data_Analysis.git
 
+
+
+🔗 Connect with Me
+
+
+GitHub: mangal-singh001
+
+LinkedIn: [https://www.linkedin.com/in/mangal-singh123/]
+
+
+
+✍️ Feel free to fork this repo or suggest improvements!
+
